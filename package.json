@@ -1,0 +1,10 @@
+{
+  "name": "token-radar-01",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Quantitative token launch radar scoring pre-token protocols by multi-factor implied valuation and generating actionable farming playbooks.",
+  "scripts": {
+    "start": "node main.ts --input ../token-radar-01-kit/input/snapshot.json"
+  },
+  "license": "MIT"
+}
